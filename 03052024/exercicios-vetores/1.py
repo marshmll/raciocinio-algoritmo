@@ -13,3 +13,4 @@ A[4] = 100
 i = 0
 while i < len(A):
     print(f"Valor de A[{i}] = {A[i]}")
+    i += 1
